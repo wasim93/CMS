@@ -1,0 +1,273 @@
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS
+$ git init
+Initialized empty Git repository in D:/wamp64/www/Oct_workshops/CMS/.git/
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git commit -m "First Commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+        a.php
+        admin/
+        css/
+        fonts/
+        img/
+        includes/
+        index.php
+        js/
+        post.php
+        search.php
+
+nothing added to commit but untracked files present
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git add --all
+warning: LF will be replaced by CRLF in admin/categories.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/bootstrap-rtl.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/bootstrap-rtl.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/bootstrap.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/bootstrap.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/plugins/morris.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/sb-admin-rtl.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/css/sb-admin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/css/font-awesome.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/css/font-awesome.min.                                                                                                                css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/fonts/fontawesome-web                                                                                                                font.svg.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/bordered-pulled.                                                                                                                less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/core.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/fixed-width.less                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/font-awesome.les                                                                                                                s.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/icons.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/larger.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/list.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/mixins.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/path.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/rotated-flipped.                                                                                                                less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/spinning.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/stacked.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/less/variables.less.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_bordered-pulled                                                                                                                .scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_core.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_fixed-width.scs                                                                                                                s.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_icons.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_larger.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_list.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_mixins.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_path.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_rotated-flipped                                                                                                                .scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_spinning.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_stacked.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/_variables.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/font-awesome/scss/font-awesome.scs                                                                                                                s.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/fonts/glyphicons-halflings-regular                                                                                                                .svg.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/index.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/bootstrap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/bootstrap.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/flot/flot-data.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/flot/jquery.flot.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/flot/jquery.flot.pie.js                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/flot/jquery.flot.resize                                                                                                                .js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/flot/jquery.flot.toolti                                                                                                                p.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/morris/morris-data.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/morris/morris.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/morris/morris.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in admin/js/plugins/morris/raphael.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in css/blog-home.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in css/blog-post.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in css/bootstrap.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in css/bootstrap.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in fonts/glyphicons-halflings-regular.svg.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in index.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in js/bootstrap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in js/bootstrap.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in js/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in post.php.
+The file will have its original line endings in your working directory.
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git commit -m "First Commit"
+[master (root-commit) 3234be6] First Commit
+ 87 files changed, 32605 insertions(+)
+ create mode 100644 a.php
+ create mode 100644 admin/categories.php
+ create mode 100644 admin/css/bootstrap-rtl.css
+ create mode 100644 admin/css/bootstrap-rtl.min.css
+ create mode 100644 admin/css/bootstrap.css
+ create mode 100644 admin/css/bootstrap.min.css
+ create mode 100644 admin/css/plugins/morris.css
+ create mode 100644 admin/css/sb-admin-rtl.css
+ create mode 100644 admin/css/sb-admin.css
+ create mode 100644 admin/font-awesome/css/font-awesome.css
+ create mode 100644 admin/font-awesome/css/font-awesome.min.css
+ create mode 100644 admin/font-awesome/fonts/FontAwesome.otf
+ create mode 100644 admin/font-awesome/fonts/fontawesome-webfont.eot
+ create mode 100644 admin/font-awesome/fonts/fontawesome-webfont.svg
+ create mode 100644 admin/font-awesome/fonts/fontawesome-webfont.ttf
+ create mode 100644 admin/font-awesome/fonts/fontawesome-webfont.woff
+ create mode 100644 admin/font-awesome/less/bordered-pulled.less
+ create mode 100644 admin/font-awesome/less/core.less
+ create mode 100644 admin/font-awesome/less/fixed-width.less
+ create mode 100644 admin/font-awesome/less/font-awesome.less
+ create mode 100644 admin/font-awesome/less/icons.less
+ create mode 100644 admin/font-awesome/less/larger.less
+ create mode 100644 admin/font-awesome/less/list.less
+ create mode 100644 admin/font-awesome/less/mixins.less
+ create mode 100644 admin/font-awesome/less/path.less
+ create mode 100644 admin/font-awesome/less/rotated-flipped.less
+ create mode 100644 admin/font-awesome/less/spinning.less
+ create mode 100644 admin/font-awesome/less/stacked.less
+ create mode 100644 admin/font-awesome/less/variables.less
+ create mode 100644 admin/font-awesome/scss/_bordered-pulled.scss
+ create mode 100644 admin/font-awesome/scss/_core.scss
+ create mode 100644 admin/font-awesome/scss/_fixed-width.scss
+ create mode 100644 admin/font-awesome/scss/_icons.scss
+ create mode 100644 admin/font-awesome/scss/_larger.scss
+ create mode 100644 admin/font-awesome/scss/_list.scss
+ create mode 100644 admin/font-awesome/scss/_mixins.scss
+ create mode 100644 admin/font-awesome/scss/_path.scss
+ create mode 100644 admin/font-awesome/scss/_rotated-flipped.scss
+ create mode 100644 admin/font-awesome/scss/_spinning.scss
+ create mode 100644 admin/font-awesome/scss/_stacked.scss
+ create mode 100644 admin/font-awesome/scss/_variables.scss
+ create mode 100644 admin/font-awesome/scss/font-awesome.scss
+ create mode 100644 admin/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 admin/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 admin/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 admin/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 admin/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 admin/includes/index_footer.php
+ create mode 100644 admin/includes/index_header.php
+ create mode 100644 admin/includes/index_navigation.php
+ create mode 100644 admin/index.php
+ create mode 100644 admin/js/bootstrap.js
+ create mode 100644 admin/js/bootstrap.min.js
+ create mode 100644 admin/js/jquery.js
+ create mode 100644 admin/js/plugins/flot/excanvas.min.js
+ create mode 100644 admin/js/plugins/flot/flot-data.js
+ create mode 100644 admin/js/plugins/flot/jquery.flot.js
+ create mode 100644 admin/js/plugins/flot/jquery.flot.pie.js
+ create mode 100644 admin/js/plugins/flot/jquery.flot.resize.js
+ create mode 100644 admin/js/plugins/flot/jquery.flot.tooltip.min.js
+ create mode 100644 admin/js/plugins/morris/morris-data.js
+ create mode 100644 admin/js/plugins/morris/morris.js
+ create mode 100644 admin/js/plugins/morris/morris.min.js
+ create mode 100644 admin/js/plugins/morris/raphael.min.js
+ create mode 100644 css/blog-home.css
+ create mode 100644 css/blog-post.css
+ create mode 100644 css/bootstrap.css
+ create mode 100644 css/bootstrap.min.css
+ create mode 100644 fonts/glyphicons-halflings-regular.eot
+ create mode 100644 fonts/glyphicons-halflings-regular.svg
+ create mode 100644 fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 fonts/glyphicons-halflings-regular.woff
+ create mode 100644 fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 img/keyboard.jpg
+ create mode 100644 img/server.jpg
+ create mode 100644 includes/db.php
+ create mode 100644 includes/footer.php
+ create mode 100644 includes/header.php
+ create mode 100644 includes/navigation.php
+ create mode 100644 includes/sidebar.php
+ create mode 100644 includes/widget.php
+ create mode 100644 index.php
+ create mode 100644 js/bootstrap.js
+ create mode 100644 js/bootstrap.min.js
+ create mode 100644 js/jquery.js
+ create mode 100644 post.php
+ create mode 100644 search.php
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git remote add origin https://github.com/wasim93/CMS.git
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git push -u origin master
+Counting objects: 97, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (95/95), done.
+Writing objects: 100% (97/97), 866.82 KiB | 0 bytes/s, done.
+Total 97 (delta 14), reused 0 (delta 0)
+remote: Resolving deltas: 100% (14/14), done.
+To https://github.com/wasim93/CMS.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+FaDi@DESKTOP-PH04V7L MINGW64 /d/wamp64/www/Oct_workshops/CMS (master)
+$
